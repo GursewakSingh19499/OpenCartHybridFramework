@@ -1,0 +1,15 @@
+18:35:14.279 [main] INFO  testCases.TC_01_AccountRegistration - ****** Clicked on My Account Link ********************
+18:35:15.017 [main] INFO  testCases.TC_01_AccountRegistration - ****** Clicked on Registration Link ********************
+18:35:15.038 [main] INFO  testCases.TC_01_AccountRegistration - ****** Providing Customer Details ********************
+18:35:16.717 [main] INFO  testCases.TC_01_AccountRegistration - ****** Validating Message ************
+18:35:16.766 [main] INFO  testCases.TC_01_AccountRegistration - ****** Finished TC_01_AccountRegistration ********************
+23:54:00.000 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse Workspace\SeleniumWithJava\OpenCartHybridFramework\masterTest.xml"
+23:55:36.685 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse Workspace\SeleniumWithJava\OpenCartHybridFramework\masterTest.xml"
+23:55:46.551 [main] INFO  testCases.TC_01_AccountRegistration - ****** Starting TC_01_AccountRegistration ********************
+23:55:46.760 [main] INFO  testCases.TC_01_AccountRegistration - ****** Clicked on My Account Link ********************
+23:55:47.155 [main] INFO  testCases.TC_01_AccountRegistration - ****** Clicked on Registration Link ********************
+23:55:47.176 [main] INFO  testCases.TC_01_AccountRegistration - ****** Providing Customer Details ********************
+23:55:48.941 [main] INFO  testCases.TC_01_AccountRegistration - ****** Validating Message ************
+23:55:49.008 [main] INFO  testCases.TC_01_AccountRegistration - ****** Finished TC_01_AccountRegistration ********************
+23:55:52.389 [main] INFO  testCases.TC_02_LoginTest - ***** Starting TC_02_LoginTest **********
+23:55:54.164 [main] INFO  testCases.TC_02_LoginTest - ***** Finished TC_02_LoginTest **********

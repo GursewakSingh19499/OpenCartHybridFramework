@@ -1,0 +1,50 @@
+00:21:39.180 [main] INFO  testCases.TC_01_AccountRegistration - ****** Providing Customer Details ********************
+00:21:40.679 [main] INFO  testCases.TC_01_AccountRegistration - ****** Validating Message ************
+00:21:40.745 [main] INFO  testCases.TC_01_AccountRegistration - ****** Finished TC_01_AccountRegistration ********************
+00:21:43.066 [main] INFO  testCases.TC_02_LoginTest - ***** Starting TC_02_LoginTest **********
+00:21:44.496 [main] INFO  testCases.TC_02_LoginTest - ***** Finished TC_02_LoginTest **********
+00:23:13.727 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse Workspace\SeleniumWithJava\OpenCartHybridFramework\masterTest.xml"
+00:23:14.037 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse Workspace\SeleniumWithJava\OpenCartHybridFramework\masterTest.xml
+
+00:23:18.584 [main] INFO  testCases.TC_01_AccountRegistration - ****** Starting TC_01_AccountRegistration ********************
+00:23:18.751 [main] INFO  testCases.TC_01_AccountRegistration - ****** Clicked on My Account Link ********************
+00:23:19.169 [main] INFO  testCases.TC_01_AccountRegistration - ****** Clicked on Registration Link ********************
+00:23:19.197 [main] INFO  testCases.TC_01_AccountRegistration - ****** Providing Customer Details ********************
+00:23:20.676 [main] INFO  testCases.TC_01_AccountRegistration - ****** Validating Message ************
+00:23:20.732 [main] INFO  testCases.TC_01_AccountRegistration - ****** Finished TC_01_AccountRegistration ********************
+00:23:23.176 [main] INFO  testCases.TC_02_LoginTest - ***** Starting TC_02_LoginTest **********
+00:23:24.649 [main] INFO  testCases.TC_02_LoginTest - ***** Finished TC_02_LoginTest **********
+18:24:53.384 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse Workspace\SeleniumWithJava\OpenCartHybridFramework\grid_docker.xml"
+18:24:53.829 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse Workspace\SeleniumWithJava\OpenCartHybridFramework\grid_docker.xml
+
+18:24:54.135 [TestNG-tests-1] INFO  testCases.TC_01_AccountRegistration - ****** Starting TC_01_AccountRegistration ********************
+18:24:54.135 [TestNG-tests-2] INFO  testCases.TC_01_AccountRegistration - ****** Starting TC_01_AccountRegistration ********************
+18:24:54.192 [TestNG-tests-1] ERROR testCases.TC_01_AccountRegistration - Test Failed due to exception....
+18:24:54.192 [TestNG-tests-2] ERROR testCases.TC_01_AccountRegistration - Test Failed due to exception....
+18:24:54.192 [TestNG-tests-1] DEBUG testCases.TC_01_AccountRegistration - Debug logs....
+18:24:54.192 [TestNG-tests-2] DEBUG testCases.TC_01_AccountRegistration - Debug logs....
+18:29:21.219 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse Workspace\SeleniumWithJava\OpenCartHybridFramework\grid_docker.xml"
+18:29:21.531 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse Workspace\SeleniumWithJava\OpenCartHybridFramework\grid_docker.xml
+
+18:29:54.558 [TestNG-tests-2] INFO  testCases.TC_01_AccountRegistration - ****** Starting TC_01_AccountRegistration ********************
+18:29:54.590 [TestNG-tests-1] INFO  testCases.TC_01_AccountRegistration - ****** Starting TC_01_AccountRegistration ********************
+18:29:55.600 [TestNG-tests-1] INFO  testCases.TC_01_AccountRegistration - ****** Clicked on My Account Link ********************
+18:29:55.698 [TestNG-tests-2] INFO  testCases.TC_01_AccountRegistration - ****** Clicked on My Account Link ********************
+18:29:55.863 [TestNG-tests-2] ERROR testCases.TC_01_AccountRegistration - Test Failed due to exception....
+18:29:55.864 [TestNG-tests-2] DEBUG testCases.TC_01_AccountRegistration - Debug logs....
+18:29:55.876 [TestNG-tests-1] ERROR testCases.TC_01_AccountRegistration - Test Failed due to exception....
+18:29:55.876 [TestNG-tests-1] DEBUG testCases.TC_01_AccountRegistration - Debug logs....
+18:33:43.882 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse Workspace\SeleniumWithJava\OpenCartHybridFramework\grid_docker.xml"
+18:33:44.873 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse Workspace\SeleniumWithJava\OpenCartHybridFramework\grid_docker.xml
+
+18:34:59.565 [main] INFO  testCases.TC_01_AccountRegistration - ****** Starting TC_01_AccountRegistration ********************
+18:34:59.819 [main] INFO  testCases.TC_01_AccountRegistration - ****** Clicked on My Account Link ********************
+18:35:00.390 [main] INFO  testCases.TC_01_AccountRegistration - ****** Clicked on Registration Link ********************
+18:35:00.799 [main] INFO  testCases.TC_01_AccountRegistration - ****** Providing Customer Details ********************
+18:35:06.171 [main] INFO  testCases.TC_01_AccountRegistration - ****** Validating Message ************
+18:35:06.257 [main] INFO  testCases.TC_01_AccountRegistration - ****** Finished TC_01_AccountRegistration ********************
+18:35:14.079 [main] INFO  testCases.TC_01_AccountRegistration - ****** Starting TC_01_AccountRegistration ********************
