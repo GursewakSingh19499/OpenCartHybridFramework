@@ -1,0 +1,12 @@
+13:41:47.052 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse Workspace\SeleniumWithJava\OpenCartHybridFramework\masterTest.xml"
+13:41:47.529 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse Workspace\SeleniumWithJava\OpenCartHybridFramework\masterTest.xml
+
+13:42:04.534 [main] INFO  testCases.TC_01_AccountRegistration - ****** Starting TC_01_AccountRegistration ********************
+13:42:04.851 [main] INFO  testCases.TC_01_AccountRegistration - ****** Clicked on My Account Link ********************
+13:42:05.552 [main] INFO  testCases.TC_01_AccountRegistration - ****** Clicked on Registration Link ********************
+13:42:05.619 [main] INFO  testCases.TC_01_AccountRegistration - ****** Providing Customer Details ********************
+13:42:08.917 [main] INFO  testCases.TC_01_AccountRegistration - ****** Validating Message ************
+13:42:09.016 [main] INFO  testCases.TC_01_AccountRegistration - ****** Finished TC_01_AccountRegistration ********************
+13:42:13.579 [main] INFO  testCases.TC_02_LoginTest - ***** Starting TC_02_LoginTest **********
+13:42:18.677 [main] INFO  testCases.TC_02_LoginTest - ***** Finished TC_02_LoginTest **********
